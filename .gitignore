@@ -1,0 +1,25 @@
+# Build outputs
+dist/
+bin/
+*.exe
+*.test
+*.out
+
+# Go workspace/cache artifacts
+coverage.out
+
+# Python/cache artifacts
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Local runtime files
+.envrc
+.direnv/
+logs/
+.grok-search/
+
+# llmdoc scratch space
+.llmdoc-tmp/
