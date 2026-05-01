@@ -1,4 +1,4 @@
 interface:
   display_name: "Grok Search CLI"
-  short_description: "Use the local Grok Search CLI for sourced web search"
+  short_description: "Use local CLI web search with source evidence"
   default_prompt: "Use $grok-search-cli to search current web information with local CLI sources."
