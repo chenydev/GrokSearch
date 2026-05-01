@@ -43,7 +43,7 @@ go vet ./...
   "guda_base_url": "https://code.guda.studio",
   "grok_api_url": "",
   "grok_api_key": "",
-  "grok_model": "grok-4-fast",
+  "grok_model": "grok-4.20-fast",
   "tavily_enabled": true,
   "tavily_api_url": "https://api.tavily.com",
   "tavily_api_key": "",

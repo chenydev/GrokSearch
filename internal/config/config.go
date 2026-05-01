@@ -12,7 +12,7 @@ import (
 )
 
 const (
-	defaultModel        = "grok-4-fast"
+	defaultModel        = "grok-4.20-fast"
 	defaultTavilyURL    = "https://api.tavily.com"
 	defaultFirecrawlURL = "https://api.firecrawl.dev/v2"
 	defaultGuDaBaseURL  = "https://code.guda.studio"
